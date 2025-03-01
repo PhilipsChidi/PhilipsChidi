@@ -1,9 +1,7 @@
-<img src="https://i.pinimg.com/originals/87/f3/f1/87f3f1425b217691da645e97dbb50d55.gif"/
 <h1 align="center">Hi 👋, I'm Philips Chidiebere Ijeomah</h1>
-<h3 align="center">A Data analyst who is very passionate in becoming a professional web developer from. Im from Lagos,Nigeria.</h3>
+<h3 align="center">A Data analyst who is very passionate in becoming a professional web developer. Im from Lagos,Nigeria.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=philipschidi&label=Profile%20views&color=0e75b6&style=flat" alt="philipschidi" /> </p>
-
+<p align="left"> <img src="https://https://i.pinimg.com/originals/87/f3/f1/87f3f1425b217691da645e97dbb50d55.gif
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=philipschidi" alt="philipschidi" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/philips chidiebere" target="blank"><img src="https://img.shields.io/twitter/follow/philips chidiebere?logo=twitter&style=for-the-badge" alt="philips chidiebere" /></a> </p>
