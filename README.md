@@ -12,8 +12,7 @@ You can click the Preview link to take a look at your changes.
 --->
 ](https://www.pinterest.com/pin/code-driveby--764837949221236977/
 <h1 align="center">Hi 👋, I'm Philips Chidiebere Ijeomah</h1>
-<h3 align="center">A Data analyst who is very passionate in becoming a professional web developer from. Im from Lagos,Nigeria.</h3>
-https://www.google.com/imgres?q=animated%20coding%20images&imgurl=https%3A%2F%2Ft4.ftcdn.net%2Fjpg%2F08%2F70%2F32%2F31%2F360_F_870323199_ajFBiDNHIlYPyy5Hdl0BOXuLFqLsirD6.jpg&imgrefurl=https%3A%2F%2Fstock.adobe.com%2Fsearch%3Fk%3Dprogrammer%2Bcartoon&docid=8YZqRq27QWN2GM&tbnid=mq4dFSH8MQCWRM&vet=12ahUKEwjJi-apgemLAxU838kDHSnYDQcQM3oECGIQAA..i&w=643&h=360&hcb=2&ved=2ahUKEwjJi-apgemLAxU838kDHSnYDQcQM3oECGIQAA
+<h3 align="center">Data analyst who is very passionate in becoming a professional web developer. Im from Lagos,Nigeria.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=philipschidi&label=Profile%20views&color=0e75b6&style=flat" alt="philipschidi" /> </p>
 
