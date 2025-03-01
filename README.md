@@ -1,4 +1,5 @@
-<p align="left"> <img src="https://https://i.pinimg.com/originals/87/f3/f1/87f3f1425b217691da645e97dbb50d55.gif
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-img"><img src="https://https://i.pinimg.com/originals/87/f3/f1/87f3f1425b217691da645e97dbb50d55.gif/?username=philipschidi" alt="philipschidi" /></a> </p>
+
 <h1 align="center">Hi 👋, I'm Philips Chidiebere Ijeomah</h1>
 <h3 align="center">A Data analyst who is very passionate in becoming a professional web developer. Im from Lagos,Nigeria.</h3>
 
