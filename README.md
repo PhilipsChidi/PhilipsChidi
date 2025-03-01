@@ -1,18 +1,6 @@
-[- 👋 Hi, I’m @PhilipsChidi
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-PhilipsChidi/PhilipsChidi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-](https://www.pinterest.com/pin/code-driveby--764837949221236977/
+<img src="https://i.pinimg.com/originals/87/f3/f1/87f3f1425b217691da645e97dbb50d55.gif"/
 <h1 align="center">Hi 👋, I'm Philips Chidiebere Ijeomah</h1>
-<h3 align="center">Data analyst who is very passionate in becoming a professional web developer. Im from Lagos,Nigeria.</h3>
+<h3 align="center">A Data analyst who is very passionate in becoming a professional web developer from. Im from Lagos,Nigeria.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=philipschidi&label=Profile%20views&color=0e75b6&style=flat" alt="philipschidi" /> </p>
 
@@ -44,4 +32,3 @@ You can click the Preview link to take a look at your changes.
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=philipschidi&show_icons=true&locale=en" alt="philipschidi" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=philipschidi&" alt="philipschidi" /></p>
-)
